@@ -14,6 +14,9 @@
 		578F6D6B2B067F4300FD40F7 /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578F6D6A2B067F4300FD40F7 /* BackgroundView.swift */; };
 		578F6D6D2B067F6500FD40F7 /* CoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578F6D6C2B067F6500FD40F7 /* CoverView.swift */; };
 		578F6D6F2B067F8B00FD40F7 /* Chapter1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578F6D6E2B067F8B00FD40F7 /* Chapter1View.swift */; };
+		578F6D712B067FEA00FD40F7 /* Chapter2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578F6D702B067FEA00FD40F7 /* Chapter2View.swift */; };
+		578F6D732B067FFA00FD40F7 /* Chapter3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578F6D722B067FFA00FD40F7 /* Chapter3View.swift */; };
+		578F6D752B06800B00FD40F7 /* Chapter4View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 578F6D742B06800B00FD40F7 /* Chapter4View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +28,9 @@
 		578F6D6A2B067F4300FD40F7 /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
 		578F6D6C2B067F6500FD40F7 /* CoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverView.swift; sourceTree = "<group>"; };
 		578F6D6E2B067F8B00FD40F7 /* Chapter1View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter1View.swift; sourceTree = "<group>"; };
+		578F6D702B067FEA00FD40F7 /* Chapter2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter2View.swift; sourceTree = "<group>"; };
+		578F6D722B067FFA00FD40F7 /* Chapter3View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter3View.swift; sourceTree = "<group>"; };
+		578F6D742B06800B00FD40F7 /* Chapter4View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chapter4View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +68,9 @@
 				578F6D6A2B067F4300FD40F7 /* BackgroundView.swift */,
 				578F6D6C2B067F6500FD40F7 /* CoverView.swift */,
 				578F6D6E2B067F8B00FD40F7 /* Chapter1View.swift */,
+				578F6D702B067FEA00FD40F7 /* Chapter2View.swift */,
+				578F6D722B067FFA00FD40F7 /* Chapter3View.swift */,
+				578F6D742B06800B00FD40F7 /* Chapter4View.swift */,
 				5769EE1D2B0672D0009DAA41 /* Assets.xcassets */,
 				5769EE1F2B0672D0009DAA41 /* Preview Content */,
 			);
@@ -149,8 +158,11 @@
 				578F6D6D2B067F6500FD40F7 /* CoverView.swift in Sources */,
 				578F6D6B2B067F4300FD40F7 /* BackgroundView.swift in Sources */,
 				5769EE1C2B0672CE009DAA41 /* ContentView.swift in Sources */,
+				578F6D752B06800B00FD40F7 /* Chapter4View.swift in Sources */,
 				578F6D6F2B067F8B00FD40F7 /* Chapter1View.swift in Sources */,
 				5769EE1A2B0672CE009DAA41 /* _4HoursV2_FinalApp.swift in Sources */,
+				578F6D712B067FEA00FD40F7 /* Chapter2View.swift in Sources */,
+				578F6D732B067FFA00FD40F7 /* Chapter3View.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

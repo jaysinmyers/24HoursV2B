@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-//
+
 
 struct CoverView: View {
     @State var isAnimating: Bool = false
